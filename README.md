@@ -11,7 +11,7 @@ Hi, I'm Sherin Shaji, Currently pursuing B.Tech in CSE. Overall, my passion for 
 **Talking about Personal Stuffs:**
 
 - I’m currently pursuing B.Tech in CSE
-- I’m currently learning GraphQL. like to include typescript and Kubernetes; 
+- I’m currently learning GraphQL
 - I’m looking for work with web dev projects.
 - keep consistency!
 - 
